@@ -15,5 +15,5 @@ export default defineConfig({
     rehypePlugins: [[rehypePrettyCode, options]],
     remarkPlugins: [remarkOssImagePlugin],
   },
-  site: "https://licodeao.top",
+  site: "https://blog-v1.kemeow.top",
 });
